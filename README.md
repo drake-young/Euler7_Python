@@ -12,7 +12,7 @@ What is the 10 001<sup>st</sup> prime number?
 
 * **Drake Young** - *Initial work* - [drake-young](https://github.com/drake-young)
 
-See also the list of [contributors](https://github.com/drake-young/Euler6_Python/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/drake-young/Euler7_Python/contributors) who participated in this project.
 
 ## Additional Links and References
 
